@@ -1,2 +1,9 @@
-site_name: My Docs
-theme: material
+site_name: Marco Reed
+theme: 
+  name: material
+  palette:
+    scheme: default
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences

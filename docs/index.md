@@ -2,6 +2,12 @@
 
 Hello, I'm Marco. 
 
+# Getting started 
+
+Please enjoy my website!
+
+![THE ACRI BANNER](assets/ecri-banner.png)
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
