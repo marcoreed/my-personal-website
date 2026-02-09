@@ -76,7 +76,14 @@ pip install mkdocs-material
 ```
 <!-- For links, surround link text with square brackets and the URL with round parentheses [TEXT](URL) -->
 
-Those are a few of the basics, but there is lots more to explore. [This](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) is a great resource from GitHub.
+> [!TIP]
+> Those are a few of the basics, but there is lots more to explore. [This](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) is a great resource from GitHub.
+
+
+| Type of thing | Hello |
+| --- | --- |
+| Thing | Hello |
+
 
 This material was developed by the RCDS team at ECRI.
 
